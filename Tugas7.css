@@ -1,0 +1,28 @@
+body {
+    background: url("/CSS/CSS-TUGAS/TUGAS 7/Stupa_Borobudur.jpg") no-repeat center center / cover scroll ;
+    color: white;
+}
+p.justify {
+    background: url("/CSS/CSS-TUGAS/TUGAS 7/avocado.jpg") center center fixed;
+    margin: auto;
+    margin-top: 1em;
+    width: 700px;
+    height: 500px;
+    color: blue;
+    border: 2px solid red;
+}
+
+.repeat {
+
+    width: 700px;
+    height: 280px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 1em;
+    background: url("/CSS/CSS-TUGAS/TUGAS 7/avocado.jpg") repeat-x center center scroll;
+    background-position: center top;
+}
+
+
+
+
